@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @dantrr
-- 👀 I’m interested in Playstation and the stock market.
+- 👀 I’m interested in Playstation(Especially the Vita), the Play.date by Panic and investing.
 - 🌱 I’m currently learning Python, Lua, and C++
 - 💞️ I’m looking to collaborate on anything I guess, looking to learn.
 - 📫 How to reach me: dantrrthepirate@gmail.com
