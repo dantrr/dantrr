@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @dantrr
 - 👀 I’m interested in Playstation(Especially the Vita), the Play.date by Panic and investing.
-- 🌱 I’m currently learning Python, Lua, Swift, and C++
+- 🌱 I’m currently learning Python, Swift, Lua, C++, and C.
 - 💞️ I’m looking to collaborate on anything I guess, looking to learn.
 - 📫 How to reach me: dantrrthepirate@gmail.com
 
